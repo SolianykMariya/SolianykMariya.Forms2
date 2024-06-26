@@ -1,0 +1,16 @@
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.exe
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.deps.json
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.runtimeconfig.json
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.dll
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\bin\Debug\net8.0-windows\WinFormsApp7.pdb
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.Form1.resources
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.AssemblyInfo.cs
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.dll
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\refint\WinFormsApp7.dll
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.pdb
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\WinFormsApp7.genruntimeconfig.cache
+C:\Users\Mariya\source\repos\WinFormsApp7\WinFormsApp7\obj\Debug\net8.0-windows\ref\WinFormsApp7.dll
